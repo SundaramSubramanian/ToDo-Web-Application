@@ -1,0 +1,47 @@
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\bin\Debug\netcoreapp3.1\ToDo Simple Web Application.exe
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\obj\Debug\netcoreapp3.1\ToDo Simple Web Application.csprojAssemblyReference.cache
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\obj\Debug\netcoreapp3.1\ToDo Simple Web Application.RazorAssemblyInfo.cache
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\obj\Debug\netcoreapp3.1\ToDo Simple Web Application.RazorAssemblyInfo.cs
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\obj\Debug\netcoreapp3.1\ToDo Simple Web Application.AssemblyInfoInputs.cache
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\obj\Debug\netcoreapp3.1\ToDo Simple Web Application.AssemblyInfo.cs
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\obj\Debug\netcoreapp3.1\ToDo Simple Web Application.TagHelpers.input.cache
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\obj\Debug\netcoreapp3.1\ToDo Simple Web Application.TagHelpers.output.cache
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\obj\Debug\netcoreapp3.1\ToDo Simple Web Application.RazorCoreGenerate.cache
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\obj\Debug\netcoreapp3.1\ToDo Simple Web Application.RazorTargetAssemblyInfo.cache
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\obj\Debug\netcoreapp3.1\ToDo Simple Web Application.RazorTargetAssemblyInfo.cs
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\obj\Debug\netcoreapp3.1\staticwebassets\ToDo Simple Web Application.StaticWebAssets.Manifest.cache
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\obj\Debug\netcoreapp3.1\staticwebassets\ToDo Simple Web Application.StaticWebAssets.xml
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\obj\Debug\netcoreapp3.1\ToDo Simple Web Application.csproj.CopyComplete
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\bin\Debug\netcoreapp3.1\ToDo Simple Web Application.deps.json
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\bin\Debug\netcoreapp3.1\ToDo Simple Web Application.runtimeconfig.json
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\bin\Debug\netcoreapp3.1\ToDo Simple Web Application.runtimeconfig.dev.json
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\bin\Debug\netcoreapp3.1\ToDo Simple Web Application.dll
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\bin\Debug\netcoreapp3.1\ToDo Simple Web Application.pdb
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\bin\Debug\netcoreapp3.1\ToDo Simple Web Application.Views.dll
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\bin\Debug\netcoreapp3.1\ToDo Simple Web Application.Views.pdb
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\obj\Debug\netcoreapp3.1\ToDo Simple Web Application.Views.pdb
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\obj\Debug\netcoreapp3.1\ToDo Simple Web Application.dll
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\obj\Debug\netcoreapp3.1\ToDo Simple Web Application.pdb
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\ToDo-Web-Application\ToDo Simple Web Application\obj\Debug\netcoreapp3.1\ToDo Simple Web Application.MvcApplicationPartsAssemblyInfo.cache

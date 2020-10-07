@@ -5,6 +5,10 @@
     <RootNamespace>ToDo_Simple_Web_Application</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+  </ItemGroup>
+
 
 
 </Project>
