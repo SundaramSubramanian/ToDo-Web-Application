@@ -5,17 +5,18 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ToDo_Simple_Web_Application.Interface;
+using ToDo_Simple_Web_Application.Services;
 
 namespace ToDo_Simple_Web_Application.Controllers
 {
     public class RegistrationController : Controller
     {
         private readonly IRegistrationService _registrationService;
-        
+
 
         public RegistrationController()
         {
-            _registrationService=new 
+            _registrationService = new RegistrationService();
         }
 
         // GET: userRegistration

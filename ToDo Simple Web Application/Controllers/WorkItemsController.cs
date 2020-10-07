@@ -1,14 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using ToDo_Simple_Web_Application.Interface;
+using ToDo_Simple_Web_Application.Services;
 
 namespace ToDo_Simple_Web_Application.Controllers
 {
     public class WorkItemsController : Controller
     {
+
+        private readonly IWorkItemsService _workItemsService;
+
+
+        public WorkItemsController()
+        {
+            _workItemsService = new WorkItemsServices();
+        }
         // GET: WorkItems
         public ActionResult Index()
         {
